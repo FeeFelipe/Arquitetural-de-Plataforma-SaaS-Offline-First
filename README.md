@@ -1,0 +1,1 @@
+# Arquitetural-de-Plataforma-SaaS-Offline-First
