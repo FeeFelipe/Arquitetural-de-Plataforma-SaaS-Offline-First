@@ -2,8 +2,6 @@
 
 ## Classificação dos Domínios
 
-## Classificação dos Domínios
-
 | Categoria  | Domínio                              | Descrição                                                                                                                                      | Objetivo Estratégico                                                                             |
 |------------|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | Core       | Service Order (OS)                   | Representa a ordem de serviço e seu ciclo de vida operacional, incluindo abertura, execução, atualização de status, prioridade e encerramento. | Garantir consistência e confiabilidade no principal fluxo de valor da plataforma.                |
